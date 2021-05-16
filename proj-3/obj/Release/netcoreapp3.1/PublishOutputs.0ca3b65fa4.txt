@@ -1,0 +1,4 @@
+/Users/rami/Dev/csc3350/projects/proj-3/proj-3/bin/Release/netcoreapp3.1/publish/proj-3.dll
+/Users/rami/Dev/csc3350/projects/proj-3/proj-3/bin/Release/netcoreapp3.1/publish/proj-3.deps.json
+/Users/rami/Dev/csc3350/projects/proj-3/proj-3/bin/Release/netcoreapp3.1/publish/proj-3.runtimeconfig.json
+/Users/rami/Dev/csc3350/projects/proj-3/proj-3/bin/Release/netcoreapp3.1/publish/proj-3.pdb

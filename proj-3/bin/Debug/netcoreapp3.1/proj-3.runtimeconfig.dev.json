@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rami/.dotnet/store/|arch|/|tfm|",
+      "/Users/rami/.nuget/packages"
+    ]
+  }
+}
