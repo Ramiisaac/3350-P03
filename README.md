@@ -10,8 +10,7 @@ This program performs the following operations:
 
 1. Initiate a Parent (which waits for child thread to complete)
 2. Initiate a Child thread using System.Threading.Tasks
-3.  Child thread...
-    (a) opens and reads text file to console using a system API
-    (b) Completes
-4. Parent thread completes
-5. Catche exceptions and throw err if needed
+3. Child thread opens and reads text file to console using a system API
+4. Child thread completes
+5. Parent thread completes
+6. Catche exceptions and throw err if needed
